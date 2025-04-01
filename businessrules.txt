@@ -1,0 +1,9 @@
+Tentative Business Rules & Restrictions:
+
+1. Users must be registered to access the application 
+2. Each application must be linked to a company (users cannot log an application without selecting a company) 
+3. Application status must be one of the predefined values: "Applied", "Interview Scheduled", "Offer Recieved", "Rejected" or "Withdrawn" 
+4. A job application can have multiple interviews, but each interview must be associated with only one application.
+5. A company can have multiple job postings, but each job posting belongs to one company 
+6. Users can add notes to applications, but they must be associated with an existing application. 
+7. Users may store documents, such as resumes and cover letters, but each document must be linked to a specific job application. 
